@@ -36,7 +36,7 @@
 ---
 
 ### 🔐 Login Page
-![Mera Bank Login](./ss2.png)
+<img width="1590" height="872" alt="Image" src="https://github.com/user-attachments/assets/8602551f-d217-4b73-a781-53ccd68e5bc0" />
 
 ---
 
