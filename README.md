@@ -31,7 +31,7 @@
 ## 🖼️ Screenshots
 
 ### ✅ Logged-in Dashboard with Features
-![Mera Bank Dashboard](./ss1.png)
+<img width="1900" height="913" alt="Image" src="https://github.com/user-attachments/assets/69393142-6b42-4b0b-8e92-83986a05a3b6" />
 
 ---
 
